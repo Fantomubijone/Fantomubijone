@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fantomubijone&label=Profile%20views&color=0e75b6&style=flat" alt="fantomubijone" /> </p>
 
 - 🌱 Currently mastering: **Python, JavaScript**
-- 🚀 Working towards: [Any specific projects or goals]
 - 📫 Reach me at: [ctorno30@gmail.com](mailto:ctorno30@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
