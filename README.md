@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! 👋 I'm Carl Allen Torno, a 2nd Year BSIT Student</h1>
-<h3 align="center">Specializing in Web and Mobile Application Development at FEU Institute of Technology</h3>
+<h1 align="center">Hi there! 👋 I'm Carl Allen Torno</h1>
+<h3 align="center">2nd Year BSIT Student Specializing in Web and Mobile Application Development at FEU Institute of Technology</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fantomubijone&label=Profile%20views&color=0e75b6&style=flat" alt="fantomubijone" /> </p>
 
